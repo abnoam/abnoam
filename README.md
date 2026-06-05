@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=abnoam&theme=dark&fire=DBEB0F&border=1FEB4A&ring=26D04F&currStreakLabel=C9D800" alt="GitHub Streak" />
-  </a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-mocha-one.vercel.app?user=abnoam&theme=dark&border=55F11E&stroke=2A6526&ring=4CC422&fire=D1EF1B&currStreakLabel=CEEB11" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
